@@ -31,3 +31,5 @@
 *.out
 *.app
 
+# apple finder files
+.DS_Store
